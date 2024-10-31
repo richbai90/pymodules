@@ -1,0 +1,3 @@
+[submodule "amscope-camera"]
+	path = amscope-camera
+	url = git@github.com:hacker-fab/amscope-camera.git
